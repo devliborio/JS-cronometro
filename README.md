@@ -2,7 +2,7 @@
 
 Esse projeto vem com o intuito de basicamente demonstrar meus conhecimentos em JavaScript, é um projeto que serve de portifolio para que quem venha da uma olhadinha nos meus conhecimentos tecnicos possa entender das minhas habilidades nas linguagens que digo dominar
 
-Falando o pouco do projeto em si, ele funciona literalmente como um cronometro comum, normalmente usado atualmente em celulares, e vem com o objetivo de tornar mais pratico o uso de um cronometro em maquinas portateis que com basicamente uma pesquisa na Web se torna disponivel o uso da ferramenta. Contando em hora, minuto, segundo e milisegundo o tempo decorrido. 
+Falando um pouco do projeto em si, ele funciona literalmente como um cronometro comum, normalmente usado atualmente em celulares, e vem com o objetivo de tornar mais pratico o uso de um cronometro em maquinas portateis que com basicamente uma pesquisa na Web se torna disponivel o uso da ferramenta. Contando em hora, minuto, segundo e milisegundo o tempo decorrido. 
 
 #### Link do Projeto: https://devliborio.github.io/JS-cronometro/
 
